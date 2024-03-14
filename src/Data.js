@@ -1,4 +1,4 @@
-export const API_KEY = 'YouTube Data Api Key';
+export const API_KEY = 'Google YouTube Data Api Key';
 
 export const value_converter = (value) =>{
     if(value > 1000000){
